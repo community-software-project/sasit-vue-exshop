@@ -17,4 +17,4 @@ vue2 + vuex + vue-router + webpack + axios + svg
 	node 建议使用8.0 以上版本
 
 ## 对应后台API系统
-	https://github.com/bailicangdu/node-elm
+	https://github.com/community-software-project/sasit-spring-rest.git
